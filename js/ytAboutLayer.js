@@ -30,6 +30,7 @@ var ytAboutLayer = (function () {
 		var txtList = [
 			// "A: I wonder who the programmer of this game is?",
 			"Created by jimy",
+			'This game is based on HTML5 and HTML5 game engine lufylegend.js'
 			// "A: Ok, where is the material from?",
 			// "Y: To be honest, the material is from the Internet. I think I need to say 'thanks' to these authors.",
 			// "A: And would you mind tell me some technical information about this game?",
