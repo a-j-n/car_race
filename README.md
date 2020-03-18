@@ -7,9 +7,5 @@ An html5 car-racing game.
 - Support main-stream web browsers, iOS and Android.
 
 ## Play Online
-URL: car.blue-bot.info
+URL: car.blue-bot.info(http://car.blue-bot.info)
 
-## Screenshot
-**Game Page:**
-
-![Screenshot](http://yuehaowang.github.io/images/demo/crazy_racing1.png)
